@@ -1,0 +1,4 @@
+CharaterControl False
+CharatorMove Back
+SetTexture Front Charator
+PlaySound Doom!!!.wav
